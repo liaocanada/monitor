@@ -4,18 +4,20 @@
     "url": "https://www.davidliao.ca",
     "icon": "https://favicons.githubusercontent.com/www.davidliao.ca",
     "slug": "personal-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "95.09%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "95.09%",
+    "uptimeYear": "95.09%",
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2021-01-07": 2
+    }
   },
   {
     "name": "📔 Bookstore App (Frontend)",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/api.davidliao.ca",
     "slug": "career-counsel-app-backend",
     "status": "down",
-    "uptime": "2.03%",
-    "uptimeDay": "2.03%",
-    "uptimeWeek": "2.03%",
-    "uptimeMonth": "2.03%",
-    "uptimeYear": "2.03%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-07": 0
+      "2021-01-07": 18
     }
   },
   {

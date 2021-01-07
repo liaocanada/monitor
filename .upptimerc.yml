@@ -2,14 +2,18 @@ owner: liaocanada
 repo: monitor
 
 sites:
-  - name: Personal Website
+  - name: 🧑 Personal Website
     url: https://www.davidliao.ca
-  - name: Bookstore
+  - name: 📔 Bookstore App (Frontend)
     url: https://ebookstore.davidliao.ca/
-  - name: Frontend for CareerCounsel App
+  - name: 📔 Bookstore App (Backend)
+    url: https://qyoxm4iv68.execute-api.us-east-1.amazonaws.com/ping
+  - name: 💼 CareerCounsel App (Frontend)
     url: https://app.davidliao.ca
-  - name: Backend API for CareerCounsel App
+  - name: 💼 CareerCounsel App (Backend)
     url: https://api.davidliao.ca
+  - name: 🔎 Google
+    url: https://google.com
 #   - name: Secret Site
 #     url: $SECRET_SITE
 

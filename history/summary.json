@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.davidliao.ca",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 233,
     "timeDay": 169,
     "timeWeek": 204,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-15": 86,
+      "2021-01-15": 762,
       "2021-01-14": 1440,
       "2021-01-13": 1440,
       "2021-01-12": 1440,
@@ -106,9 +106,9 @@
     "url": "https://google.com",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,6 +117,8 @@
     "timeWeek": 129,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-15": 0
+    }
   }
 ]
